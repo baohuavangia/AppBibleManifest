@@ -3,7 +3,7 @@
     {
       "language": "vi",
       "version": "2",
-      "linkpack": "https://drive.google.com/uc?export=download&id=ZIP_VI_ALL",
+      "linkpack": "https://drive.google.com/drive/folders/1ojPvFEvT_KurPKWV94j6qKZOjFOsDqtm?usp=drive_link",
       "books": [
         {
           "bookname": "SangThe",
@@ -158,7 +158,7 @@
         {
           "bookname": "AiCa",
           "chapters": 5,
-          "linkbook": "https://drive.google.com/uc?export=download&id=ZIP_AICA"
+          "linkbook": "https://drive.google.com/drive/folders/1bBBmsrt1QnwVFTcm_mC-p06IbMF78Xay?usp=drive_link"
         },
         {
           "bookname": "Baruc",
@@ -171,7 +171,7 @@
           "linkbook": "https://drive.google.com/uc?export=download&id=ZIP_EDEKIEN"
         },
         {
-          "bookname": "Đanien",
+          "bookname": "Danien",
           "chapters": 14,
           "linkbook": "https://drive.google.com/uc?export=download&id=ZIP_ĐANIEN"
         },
@@ -373,4 +373,5 @@
       ]
     }
   ]
+
 }

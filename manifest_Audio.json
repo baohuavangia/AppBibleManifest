@@ -3,7 +3,7 @@
     {
       "language": "vi",
       "version": "2",
-      "linkpack": "https://drive.google.com/drive/folders/1ojPvFEvT_KurPKWV94j6qKZOjFOsDqtm?usp=drive_link",
+      "linkpack": "https://drive.google.com/uc?export=download&id=1ojPvFEvT_KurPKWV94j6qKZOjFOsDqtm",
       "books": [
         {
           "bookname": "SangThe",
@@ -158,7 +158,7 @@
         {
           "bookname": "AiCa",
           "chapters": 5,
-          "linkbook": "https://drive.google.com/drive/folders/1bBBmsrt1QnwVFTcm_mC-p06IbMF78Xay?usp=drive_link"
+          "linkbook": "https://drive.google.com/uc?export=download&id=1bBBmsrt1QnwVFTcm_mC-p06IbMF78Xay"
         },
         {
           "bookname": "Baruc",
@@ -375,3 +375,4 @@
   ]
 
 }
+

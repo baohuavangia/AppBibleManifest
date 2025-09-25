@@ -48,6 +48,23 @@
       ]
     },
     {
+      "name": "ImageBible",
+      "images": [
+        {
+          "name": "download (6).jfif",
+          "path": "ImageBible/download (6).jfif",
+          "url": "https://raw.githubusercontent.com/baohuavangia/AppBibleManifest/main/ImageBible/download (6).jfif",
+          "hash": "6EFC60A17FE4C7BA9114C018101C9F6B5A09CAF13FAA66D7BD1F09F0976A00CE"
+        },
+        {
+          "name": "download (7).jfif",
+          "path": "ImageBible/download (7).jfif",
+          "url": "https://raw.githubusercontent.com/baohuavangia/AppBibleManifest/main/ImageBible/download (7).jfif",
+          "hash": "B4E3A07083BBBAED0D2A16C9CD95B2C684E5C237285EB2E9703A5224F77840DC"
+        }
+      ]
+    },
+    {
       "name": "ImageStyle",
       "images": []
     },
@@ -359,6 +376,12 @@
           "path": "ImageVerse/default.jpg",
           "url": "https://raw.githubusercontent.com/baohuavangia/AppBibleManifest/main/ImageVerse/default.jpg",
           "hash": "C327942AC4790C1721E59DB308D99A16C013FFE126EF86EE8522E6EF1D8DD0CF"
+        },
+        {
+          "name": "logo_app.png",
+          "path": "ImageVerse/logo_app.png",
+          "url": "https://raw.githubusercontent.com/baohuavangia/AppBibleManifest/main/ImageVerse/logo_app.png",
+          "hash": "22C9079D6B61BB3AD4449347F6C131E443727A9051BF81C8E670AFEBB8FB08EE"
         }
       ]
     }

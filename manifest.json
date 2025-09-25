@@ -359,12 +359,6 @@
           "path": "ImageVerse/default.jpg",
           "url": "https://raw.githubusercontent.com/baohuavangia/AppBibleManifest/main/ImageVerse/default.jpg",
           "hash": "C327942AC4790C1721E59DB308D99A16C013FFE126EF86EE8522E6EF1D8DD0CF"
-        },
-        {
-          "name": "logo_app.png",
-          "path": "ImageVerse/logo_app.png",
-          "url": "https://raw.githubusercontent.com/baohuavangia/AppBibleManifest/main/ImageVerse/logo_app.png",
-          "hash": "22C9079D6B61BB3AD4449347F6C131E443727A9051BF81C8E670AFEBB8FB08EE"
         }
       ]
     }

@@ -1,0 +1,71 @@
+{
+  "folders": [
+    {
+      "name": "Chill",
+      "images": [
+        {
+          "name": "Chuong2.mp3",
+          "path": "Chill/Chuong2.mp3",
+          "url": "https://drive.google.com/uc?export=download&id=/Chill/Chuong2.mp3",
+          "hash": "EE133C3E2AFDD534FD91109175CB1F30444254A6EFCE3DD13DF244CF833AF40A"
+        },
+        {
+          "name": "JAIGON ORCHESTRA -〘Chinatown〙OFFICIAL MUSIC VIDEO  Từ album Thế Giới Showbiz sắp ra mắt (1).mp3",
+          "path": "Chill/JAIGON ORCHESTRA -〘Chinatown〙OFFICIAL MUSIC VIDEO  Từ album Thế Giới Showbiz sắp ra mắt (1).mp3",
+          "url": "https://drive.google.com/uc?export=download&id=/Chill/JAIGON ORCHESTRA -〘Chinatown〙OFFICIAL MUSIC VIDEO  Từ album Thế Giới Showbiz sắp ra mắt (1).mp3",
+          "hash": "3BD049C34BDF2938C26F4E52788EF7611266E0DED0E24BF5A0DFF007A85B4939"
+        },
+        {
+          "name": "ReadMe.txt",
+          "path": "Chill/ReadMe.txt",
+          "url": "https://drive.google.com/uc?export=download&id=/Chill/ReadMe.txt",
+          "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+        }
+      ]
+    },
+    {
+      "name": "Choir",
+      "images": [
+        {
+          "name": "ReadMe.txt",
+          "path": "Choir/ReadMe.txt",
+          "url": "https://drive.google.com/uc?export=download&id=/Choir/ReadMe.txt",
+          "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+        }
+      ]
+    },
+    {
+      "name": "NoLyrics",
+      "images": [
+        {
+          "name": "ReadMe.txt",
+          "path": "NoLyrics/ReadMe.txt",
+          "url": "https://drive.google.com/uc?export=download&id=/NoLyrics/ReadMe.txt",
+          "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+        }
+      ]
+    },
+    {
+      "name": "Prayer",
+      "images": [
+        {
+          "name": "ReadMe.txt",
+          "path": "Prayer/ReadMe.txt",
+          "url": "https://drive.google.com/uc?export=download&id=/Prayer/ReadMe.txt",
+          "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+        }
+      ]
+    },
+    {
+      "name": "Study",
+      "images": [
+        {
+          "name": "ReadMe.txt",
+          "path": "Study/ReadMe.txt",
+          "url": "https://drive.google.com/uc?export=download&id=/Study/ReadMe.txt",
+          "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+        }
+      ]
+    }
+  ]
+}
